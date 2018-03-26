@@ -1,0 +1,11 @@
+das hier ist eine test-datei. 
+hier werden snderzeiche benützt
+und ich schau mal wie viel ich in den buffer laden kann und ob
+ich
+das wieder
+
+
+
+raus lesen kann, so wie es eingegeben ist. 
+
+-_-_-_-Ende-_-_-_-

@@ -1,0 +1,6 @@
+Das hier ist ein eine Test Text Datei. 
+Hier steht Text. 
+Dieser soll ausgelesen werden. 
+Read Only. 
+Damit soll die Position des Zugriffszeigers manipuliert und ausgegeben
+werden. Danach wird die Datei wieder geschlossen. 
